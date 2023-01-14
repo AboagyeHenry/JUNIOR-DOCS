@@ -1,0 +1,571 @@
+@media only screen and (max-width: 90rem) {
+  .andres-logo {
+    width: 277px;
+    height: 26px;
+    margin-left: 12rem;
+    margin-right: 2rem;
+  }
+  .arrow {
+    padding-left: 0rem;
+  }
+  h1 {
+    font-size: 28px;
+  }
+  .small-twit {
+    top: 106rem;
+  }
+  .top-nav ul {
+    margin: 1.5rem 9rem 0rem 6rem;
+  }
+  .quote {
+    width: 89.6rem;
+  }
+  /* .down-menu {
+    display: block;
+  } */
+  .down-menu {
+    left: 72rem;
+    top: 124px;
+  }
+}
+
+@media only screen and (max-width: 80rem) {
+  .container {
+    margin: 6.25rem 3rem 6.25rem 3rem;
+  }
+  .container p {
+    line-height: 2rem;
+  }
+  .quote {
+    width: 79.6rem;
+  }
+  .honorare-text ul li {
+    width: 66rem;
+  }
+}
+
+@media only screen and (max-width: 64rem) {
+  .main-nav {
+    column-gap: 0rem;
+  }
+  .andres-logo {
+    width: 212px;
+    height: 21px;
+    margin-left: 5rem;
+    margin-right: 3rem;
+  }
+  .arrow {
+    margin-left: 2rem;
+  }
+  .quote {
+    width: 63.9rem;
+  }
+  .honorare-text ul li {
+    width: 57.7rem;
+  }
+  .map-img {
+    width: 29.3rem;
+    height: 22.75rem;
+    margin-top: 0.7rem;
+  }
+  .container {
+    margin: 6.25rem 3rem 6.25rem 3rem;
+  }
+  .container p {
+    margin-bottom: 1.5rem;
+    line-height: 2rem;
+  }
+  .span {
+    right: 3rem;
+  }
+  .containers {
+    gap: 2rem;
+    margin: 2rem 3rem 6.25rem 3rem;
+  }
+  h2 {
+    margin-left: 3rem;
+  }
+  .small-twit {
+    top: 112rem;
+    left: 24rem;
+  }
+  .section-loc {
+    margin: 4rem 3rem 6.2rem 3rem;
+  }
+  .map-container {
+    margin: 2rem 3rem 6.25rem 3rem;
+  }
+  .map-section h2 {
+    margin-left: 3rem;
+  }
+  .down-menu {
+    left: 52rem;
+    top: 124px;
+  }
+}
+
+@media only screen and (max-width: 51.25rem) {
+  .top-nav ul {
+    margin: 1.5rem 1rem 0rem 1rem;
+  }
+  .andres-logo {
+    margin-left: 1rem;
+  }
+  .main-nav-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+  .container img {
+    width: 31.4rem;
+  }
+  .span {
+    font-size: 16px;
+  }
+  .quote {
+    width: 50.8rem;
+  }
+  .honorare-text ul li {
+    width: 47.7rem;
+  }
+}
+
+@media only screen and (max-width: 48rem) {
+  .top-nav ul {
+    margin: 1.5rem 0rem 0rem 0rem;
+  }
+  .main-nav nav {
+    gap: 2rem;
+  }
+  .main-nav-list {
+    gap: 1rem;
+  }
+  .small-twit {
+    top: 112rem;
+    left: 30rem;
+  }
+
+  .andres-logo {
+    width: 182px;
+    height: 20px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+  .container img {
+    position: relative;
+    flex-grow: 1;
+    width: 27.4rem;
+    height: 19.7rem;
+  }
+  .container {
+    gap: 0rem;
+    margin: 6.25rem 0.5rem 6.25rem 0.5rem;
+  }
+  .container ul {
+    margin-bottom: 1rem;
+  }
+  .span {
+    top: 37rem;
+    right: 1rem;
+  }
+  .container {
+    gap: -0.6rem;
+  }
+  .quote {
+    width: 47.9rem;
+  }
+
+  .containers {
+    display: block;
+    gap: 2rem;
+    margin: 2rem 5rem 6.25rem 5rem;
+  }
+  .control-ul {
+    margin-left: 4rem;
+  }
+  h2 {
+    margin-left: 9rem;
+  }
+  .side {
+    margin-top: 4rem;
+  }
+  .honorare-text ul li {
+    width: 42rem;
+  }
+  .map-img {
+    width: 25.3rem;
+    height: 18.75rem;
+    margin-top: 0.7rem;
+  }
+  .map-container {
+    margin: 0rem 3rem 6.25rem 3rem;
+  }
+  .details {
+    margin-top: 3rem;
+  }
+  .down-menu {
+    left: 41rem;
+    top: 124px;
+  }
+}
+@media only screen and (max-width: 26.5625rem) {
+  .top-nav ul {
+    display: block;
+    font-size: 18px;
+    font-weight: 500;
+  }
+  .andres-logo {
+    width: 182px;
+    height: 21px;
+    margin-left: 1rem;
+    margin-right: 1rem;
+  }
+
+  .top-nav ul li a {
+    display: block;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 2rem;
+  }
+
+  /* ////////// */
+  /* MENU */
+  /* ////////// */
+  .fa-map-pin {
+    display: contents;
+    width: 18px;
+    color: rgba(0, 191, 255, 255);
+    text-decoration: none;
+    margin-bottom: -1.5rem;
+    margin-right: 8rem;
+    font-size: 1.4rem;
+    border: none;
+    margin-right: 1rem;
+    padding-right: 1rem;
+  }
+  .top-nav ul li a {
+    margin-bottom: 0rem;
+  }
+
+  .main-nav-list {
+    background-color: rgb(244, 243, 243);
+    -webkit-backdrop-filter: blur(3px);
+    backdrop-filter: blur(3px);
+    list-style: none;
+    font-weight: bolder;
+    position: absolute;
+    top: 0;
+    left: -27rem;
+    width: 26.6rem;
+    height: 100vh;
+    transform: translate(100%);
+    display: flex;
+    align-items: center;
+    gap: 1.8rem;
+    flex-direction: column;
+    padding-top: 7rem;
+    transition: all 0.5s ease-in;
+  }
+
+  .main-nav-list {
+    display: none;
+  }
+
+  .fa-map-pin:active .main-nav-list {
+    display: block;
+  }
+
+  .fa-bars {
+    display: block;
+  }
+  .menu-button {
+    display: block;
+  }
+
+  .container {
+    flex-direction: column-reverse;
+    gap: 1.4rem;
+    margin: 2rem 1rem 6.25rem 1rem;
+  }
+  .container img {
+    position: static;
+    padding-left: 0rem;
+    width: 24.4rem;
+  }
+  h1 {
+    font-size: 24px;
+    line-height: 2.2rem;
+  }
+  .quote {
+    width: 26.3rem;
+  }
+  .quote p {
+    font-size: 17.9px;
+    line-height: 2rem;
+  }
+  .line-2 {
+    margin-left: 2rem;
+  }
+  .line-3 {
+    margin-left: 4rem;
+  }
+  .hold-img {
+    width: 24.3rem;
+    height: 15rem;
+  }
+  .containers {
+    display: block;
+    gap: 2rem;
+    margin: 2rem 1rem 6.25rem 1rem;
+  }
+  .control-ul {
+    margin-left: 0rem;
+  }
+  .small-twit {
+    top: 118rem;
+    left: 17rem;
+  }
+  .main-ul {
+    font-size: 13px;
+    font-weight: 500;
+    list-style: none;
+    padding: 16px 0;
+    width: 382px;
+    display: flex;
+    flex-direction: column;
+    column-fill: 5rem;
+    row-gap: 0.6rem;
+  }
+  .section-part {
+    padding-bottom: 1px;
+  }
+  .honorare-text ul li {
+    width: 24.3rem;
+  }
+  .section-loc {
+    margin: 4rem 1rem 5rem 1rem;
+  }
+  .map-container {
+    flex-direction: column-reverse;
+    gap: 1rem;
+  }
+  .map-img {
+    width: 24.3rem;
+    height: 18.75rem;
+    margin-top: 0.7rem;
+  }
+  .map-container {
+    margin: 0rem 1rem 6.25rem 1rem;
+  }
+  .footer-container ul {
+    column-gap: 0.6em;
+  }
+  .span {
+    top: 35rem;
+    right: 1rem;
+  }
+  .fa-solid {
+    width: 18px;
+    color: rgba(0, 191, 255, 255);
+    text-decoration: none;
+    margin-bottom: 0.6rem;
+    margin-right: 2rem;
+  }
+  .onesyd {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .arrow {
+    margin-left: 0rem;
+  }
+  .span {
+    top: 37rem;
+    display: none;
+  }
+  /* .point {
+    display: none;
+  } */
+  .down-menu {
+    left: 18rem;
+    top: 170px;
+  }
+}
+
+@media only screen and (max-width: 24.5625rem) {
+  .container img {
+    width: 22.4rem;
+  }
+  .span {
+    top: 37rem;
+  }
+  .quote {
+    width: 24.1rem;
+  }
+  h2 {
+    margin-left: 1rem;
+  }
+  .main-ul {
+    width: 368px;
+  }
+  .hold-img {
+    width: 23.1rem;
+  }
+  .small-twit {
+    top: 124rem;
+    left: 16rem;
+  }
+  .honorare-text ul li {
+    width: 23.1rem;
+  }
+  .map-img {
+    width: 22rem;
+  }
+  .map-section h2 {
+    margin-left: 1rem;
+  }
+}
+
+@media only screen and (max-width: 24.375rem) {
+  .container img {
+    width: 22.4rem;
+  }
+  .span {
+    top: 37rem;
+  }
+  .quote {
+    width: 24rem;
+  }
+  .points {
+    display: none;
+  }
+  .line-2 {
+    margin-left: 0rem;
+  }
+  .line-3 {
+    margin-left: 0rem;
+  }
+  .main-ul {
+    width: 364px;
+  }
+  .hold-img {
+    width: 23rem;
+  }
+  .small-twit {
+    top: 124rem;
+    left: 15rem;
+  }
+
+  .honorare-text ul li {
+    width: 23rem;
+  }
+  .map-img {
+    width: 22rem;
+    height: 18.75rem;
+    margin-top: 0.7rem;
+  }
+}
+
+@media only screen and (max-width: 23.4375rem) {
+  .top-nav {
+    margin-left: 0.6rem;
+  }
+  .container img {
+    width: 21rem;
+  }
+  .span {
+    top: 37rem;
+  }
+  .quote {
+    width: 23rem;
+  }
+  h2 {
+    margin-left: 1rem;
+    font-size: 2rem;
+  }
+  .main-ul {
+    font-size: 12px;
+    padding-top: 0rem;
+    width: 335px;
+  }
+  .hold-img {
+    width: 21rem;
+    height: 15rem;
+  }
+  .small-twit {
+    top: 126rem;
+    left: 14rem;
+  }
+  .honorare-text ul li {
+    width: 21rem;
+  }
+  .map-img {
+    width: 21.3rem;
+  }
+  .down-menu {
+    left: 18rem;
+    top: 204px;
+  }
+}
+@media only screen and (max-width: 22.5rem) {
+  .dede {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .arrow {
+    display: none;
+    column-gap: 0rem;
+  }
+  .quote {
+    width: 22.1rem;
+  }
+  .map-img {
+    width: 20.3rem;
+  }
+}
+
+@media only screen and (max-width: 20rem) {
+  .container img {
+    width: 18rem;
+  }
+  .quote {
+    width: 19.6rem;
+  }
+  .main-ul {
+    font-size: 12px;
+    padding-top: 0rem;
+    width: 296px;
+  }
+  .hold-img {
+    width: 18rem;
+    height: 15rem;
+  }
+  .small-twit {
+    top: 128rem;
+    left: 11rem;
+  }
+  .honorare-text ul li {
+    width: 18rem;
+  }
+  .map-img {
+    width: 17.7rem;
+  }
+  .points {
+    display: none;
+  }
+  .footer-container ul {
+    column-gap: 0.4em;
+  }
+  .down-menu {
+    left: 16rem;
+    top: 204px;
+  }
+  .down-menu ul li {
+    list-style: none;
+    width: 60px;
+    height: 60px;
+  }
+}
