@@ -1,0 +1,75 @@
+/* @media screen and (max-width: 160rem) {
+  .text {
+    position: absolute;
+    top: 64.2rem;
+    left: 34.2rem;
+  }
+  .background-div {
+    max-width: 160rem;
+  }
+  .background-div h3 {
+    line-height: 5.6rem;
+    font-size: 3.7rem;
+  }
+  .comment {
+    max-width: 56%;
+    margin: auto;
+    height: 24rem;
+  }
+
+  .C11 {
+    margin-left: 32rem;
+  }
+  .Leave-comment {
+    width: 73rem;
+    margin: auto;
+  }
+  .main-article {
+    width: 103rem;
+    margin: auto;
+  }
+  .section-follow {
+    margin-left: -4rem;
+  }
+
+  .purple-color:before {
+    left: 41.4rem;
+    top: 1611.69rem;
+  }
+  .green-color:before {
+    left: 57.67rem;
+    top: 1631.7rem;
+  }
+  .last {
+    top: 1650rem;
+    left: -13rem;
+  }
+} 
+ */
+@media screen and (max-width: 90rem) {
+  .text {
+    position: absolute;
+    top: 50.6rem;
+    left: 11.2rem;
+  }
+  .Big-Card {
+    margin: 13.3rem 10.3rem 6.25rem 10.2rem;
+  }
+  .column-table {
+    width: 76.5rem;
+  }
+  .purple-color:before {
+    left: 12rem;
+    top: 1312.14rem;
+  }
+  .green-color:before {
+    left: 28.3rem;
+    top: 1332.2rem;
+  }
+  .last {
+    top: 1351rem;
+  }
+  .C11 {
+    margin-left: 4rem;
+  }
+}
